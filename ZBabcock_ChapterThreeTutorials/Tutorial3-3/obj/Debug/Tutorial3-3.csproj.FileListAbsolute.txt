@@ -1,0 +1,8 @@
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-3\bin\Debug\Tutorial3-3.exe.config
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-3\bin\Debug\Tutorial3-3.exe
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-3\bin\Debug\Tutorial3-3.pdb
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-3\obj\Debug\Tutorial3_3.frmSalesCalc.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-3\obj\Debug\Tutorial3_3.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-3\obj\Debug\Tutorial3-3.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-3\obj\Debug\Tutorial3-3.exe
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-3\obj\Debug\Tutorial3-3.pdb

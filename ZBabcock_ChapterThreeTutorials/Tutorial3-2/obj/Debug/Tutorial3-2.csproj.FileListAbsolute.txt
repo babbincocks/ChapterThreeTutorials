@@ -1,0 +1,8 @@
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-2\bin\Debug\Tutorial3-2.exe.config
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-2\bin\Debug\Tutorial3-2.exe
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-2\bin\Debug\Tutorial3-2.pdb
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-2\obj\Debug\Tutorial3_2.frmFuelEco.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-2\obj\Debug\Tutorial3_2.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-2\obj\Debug\Tutorial3-2.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-2\obj\Debug\Tutorial3-2.exe
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-2\obj\Debug\Tutorial3-2.pdb

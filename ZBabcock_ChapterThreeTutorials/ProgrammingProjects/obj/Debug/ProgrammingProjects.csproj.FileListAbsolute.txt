@@ -1,0 +1,16 @@
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\bin\Debug\ProgrammingProjects.exe.config
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\bin\Debug\ProgrammingProjects.exe
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\bin\Debug\ProgrammingProjects.pdb
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.frmNameFormat.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.exe
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.pdb
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.frmTipTaxTotal.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.frmTravelDistance.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.frmSalesTaxTotal.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.frmTempConverter.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.frmBMI.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.frmDirectory.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\ProgrammingProjects\obj\Debug\ProgrammingProjects.frmSentenceBuild.resources

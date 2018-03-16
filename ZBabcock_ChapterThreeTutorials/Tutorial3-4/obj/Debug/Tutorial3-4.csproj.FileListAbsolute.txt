@@ -1,0 +1,9 @@
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-4\bin\Debug\Tutorial3-4.exe.config
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-4\bin\Debug\Tutorial3-4.exe
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-4\bin\Debug\Tutorial3-4.pdb
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-4\obj\Debug\Tutorial3-4.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-4\obj\Debug\Tutorial3_4.frmAVG.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-4\obj\Debug\Tutorial3_4.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-4\obj\Debug\Tutorial3-4.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-4\obj\Debug\Tutorial3-4.exe
+C:\Users\MTCStudent\Desktop\ZBabcock_ChapterThreeTutorials\Tutorial3-4\obj\Debug\Tutorial3-4.pdb
