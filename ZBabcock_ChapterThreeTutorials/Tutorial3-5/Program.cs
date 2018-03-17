@@ -16,7 +16,7 @@ namespace Tutorial3_5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmChange());
+            Application.Run(new Form1());
         }
     }
 }

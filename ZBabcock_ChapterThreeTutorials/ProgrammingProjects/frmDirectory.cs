@@ -65,5 +65,47 @@ namespace ProgrammingProjects
             frmSentenceBuild a = new frmSentenceBuild();
             a.Show();
         }
+
+        private void btnInsure_Click(object sender, EventArgs e)
+        {
+            frmInsurance a = new frmInsurance();
+            a.Show();
+        }
+
+        private void btnCookies_Click(object sender, EventArgs e)
+        {
+            frmCookies a = new frmCookies();
+            a.Show();
+        }
+
+        private void btnCalories_Click(object sender, EventArgs e)
+        {
+            frmCalories a = new frmCalories();
+            a.Show();
+        }
+
+        private void btnAutomobile_Click(object sender, EventArgs e)
+        {
+            frmAutomobile a = new frmAutomobile();
+            a.Show();
+        }
+
+        private void btnPaintJob_Click(object sender, EventArgs e)
+        {
+            frmPaintJob a = new frmPaintJob();
+            a.Show();
+        }
+
+        private void btnProperty_Click(object sender, EventArgs e)
+        {
+            frmPropertyTax a = new frmPropertyTax();
+            a.Show();
+        }
+
+        private void btnStadium_Click(object sender, EventArgs e)
+        {
+            frmStadiumSeating a = new frmStadiumSeating();
+            a.Show();
+        }
     }
 }

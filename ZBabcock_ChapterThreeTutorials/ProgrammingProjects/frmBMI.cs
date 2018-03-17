@@ -27,11 +27,19 @@ namespace ProgrammingProjects
 
         private void btnCalc_Click(object sender, EventArgs e)
         {
-            double weight = double.Parse(txtWeight.Text);
-            double height = double.Parse(txtHeight.Text);
-            double BMI = weight * 703 / (height * height);
+            try
+            {
+                double weight = double.Parse(txtWeight.Text);
+                double height = double.Parse(txtHeight.Text);
+                double BMI = weight * 703 / (height * height);
 
-            lblOutput.Text = BMI.ToString("N3");
+                lblOutput.Text = BMI.ToString("N3");
+            }
+            catch
+            {
+                MessageBox.Show("There seems to be an issue with your input. Perhaps the values you put in weren't entirely numeric?");
+
+            }
         }
 
 

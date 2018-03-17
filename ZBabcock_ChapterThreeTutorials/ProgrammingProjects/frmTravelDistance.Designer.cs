@@ -80,9 +80,9 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(351, 214);
+            this.btnExit.Location = new System.Drawing.Point(351, 198);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(87, 22);
+            this.btnExit.Size = new System.Drawing.Size(87, 38);
             this.btnExit.TabIndex = 19;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
@@ -90,9 +90,9 @@
             // 
             // btnNext
             // 
-            this.btnNext.Location = new System.Drawing.Point(241, 214);
+            this.btnNext.Location = new System.Drawing.Point(14, 198);
             this.btnNext.Name = "btnNext";
-            this.btnNext.Size = new System.Drawing.Size(87, 23);
+            this.btnNext.Size = new System.Drawing.Size(87, 39);
             this.btnNext.TabIndex = 18;
             this.btnNext.Text = "Next Problem";
             this.btnNext.UseVisualStyleBackColor = true;
@@ -100,9 +100,9 @@
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(128, 215);
+            this.btnClear.Location = new System.Drawing.Point(238, 198);
             this.btnClear.Name = "btnClear";
-            this.btnClear.Size = new System.Drawing.Size(87, 22);
+            this.btnClear.Size = new System.Drawing.Size(87, 38);
             this.btnClear.TabIndex = 17;
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = true;
@@ -144,9 +144,9 @@
             // 
             // btnCalc
             // 
-            this.btnCalc.Location = new System.Drawing.Point(14, 214);
+            this.btnCalc.Location = new System.Drawing.Point(127, 198);
             this.btnCalc.Name = "btnCalc";
-            this.btnCalc.Size = new System.Drawing.Size(87, 23);
+            this.btnCalc.Size = new System.Drawing.Size(87, 38);
             this.btnCalc.TabIndex = 12;
             this.btnCalc.Text = "Calculate";
             this.btnCalc.UseVisualStyleBackColor = true;
@@ -170,7 +170,7 @@
             this.Controls.Add(this.txtSpeed);
             this.Controls.Add(this.btnCalc);
             this.Name = "frmTravelDistance";
-            this.Text = "frmTravelDistance";
+            this.Text = "Distance Traveled";
             this.ResumeLayout(false);
             this.PerformLayout();
 

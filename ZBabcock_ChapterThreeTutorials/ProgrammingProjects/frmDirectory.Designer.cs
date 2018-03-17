@@ -35,13 +35,13 @@
             this.btnTempConvert = new System.Windows.Forms.Button();
             this.btnBMI = new System.Windows.Forms.Button();
             this.btnSentenceBuild = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
-            this.button14 = new System.Windows.Forms.Button();
+            this.btnInsure = new System.Windows.Forms.Button();
+            this.btnCookies = new System.Windows.Forms.Button();
+            this.btnCalories = new System.Windows.Forms.Button();
+            this.btnAutomobile = new System.Windows.Forms.Button();
+            this.btnPaintJob = new System.Windows.Forms.Button();
+            this.btnProperty = new System.Windows.Forms.Button();
+            this.btnStadium = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -115,68 +115,75 @@
             this.btnSentenceBuild.UseVisualStyleBackColor = true;
             this.btnSentenceBuild.Click += new System.EventHandler(this.btnSentenceBuild_Click);
             // 
-            // button8
+            // btnInsure
             // 
-            this.button8.Location = new System.Drawing.Point(324, 75);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(84, 41);
-            this.button8.TabIndex = 7;
-            this.button8.Text = "button8";
-            this.button8.UseVisualStyleBackColor = true;
+            this.btnInsure.Location = new System.Drawing.Point(324, 75);
+            this.btnInsure.Name = "btnInsure";
+            this.btnInsure.Size = new System.Drawing.Size(84, 41);
+            this.btnInsure.TabIndex = 7;
+            this.btnInsure.Text = "How Much Insurance?";
+            this.btnInsure.UseVisualStyleBackColor = true;
+            this.btnInsure.Click += new System.EventHandler(this.btnInsure_Click);
             // 
-            // button9
+            // btnCookies
             // 
-            this.button9.Location = new System.Drawing.Point(12, 137);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(84, 41);
-            this.button9.TabIndex = 8;
-            this.button9.Text = "button9";
-            this.button9.UseVisualStyleBackColor = true;
+            this.btnCookies.Location = new System.Drawing.Point(12, 137);
+            this.btnCookies.Name = "btnCookies";
+            this.btnCookies.Size = new System.Drawing.Size(84, 41);
+            this.btnCookies.TabIndex = 8;
+            this.btnCookies.Text = "Cookie Calories";
+            this.btnCookies.UseVisualStyleBackColor = true;
+            this.btnCookies.Click += new System.EventHandler(this.btnCookies_Click);
             // 
-            // button10
+            // btnCalories
             // 
-            this.button10.Location = new System.Drawing.Point(116, 137);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(84, 41);
-            this.button10.TabIndex = 9;
-            this.button10.Text = "button10";
-            this.button10.UseVisualStyleBackColor = true;
+            this.btnCalories.Location = new System.Drawing.Point(116, 137);
+            this.btnCalories.Name = "btnCalories";
+            this.btnCalories.Size = new System.Drawing.Size(84, 41);
+            this.btnCalories.TabIndex = 9;
+            this.btnCalories.Text = "Calorie Counter";
+            this.btnCalories.UseVisualStyleBackColor = true;
+            this.btnCalories.Click += new System.EventHandler(this.btnCalories_Click);
             // 
-            // button11
+            // btnAutomobile
             // 
-            this.button11.Location = new System.Drawing.Point(218, 137);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(84, 41);
-            this.button11.TabIndex = 10;
-            this.button11.Text = "button11";
-            this.button11.UseVisualStyleBackColor = true;
+            this.btnAutomobile.Location = new System.Drawing.Point(218, 137);
+            this.btnAutomobile.Name = "btnAutomobile";
+            this.btnAutomobile.Size = new System.Drawing.Size(84, 41);
+            this.btnAutomobile.TabIndex = 10;
+            this.btnAutomobile.Text = "Automobile Costs";
+            this.btnAutomobile.UseVisualStyleBackColor = true;
+            this.btnAutomobile.Click += new System.EventHandler(this.btnAutomobile_Click);
             // 
-            // button12
+            // btnPaintJob
             // 
-            this.button12.Location = new System.Drawing.Point(324, 137);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(84, 41);
-            this.button12.TabIndex = 11;
-            this.button12.Text = "button12";
-            this.button12.UseVisualStyleBackColor = true;
+            this.btnPaintJob.Location = new System.Drawing.Point(324, 137);
+            this.btnPaintJob.Name = "btnPaintJob";
+            this.btnPaintJob.Size = new System.Drawing.Size(84, 41);
+            this.btnPaintJob.TabIndex = 11;
+            this.btnPaintJob.Text = "Paint Job Estimator";
+            this.btnPaintJob.UseVisualStyleBackColor = true;
+            this.btnPaintJob.Click += new System.EventHandler(this.btnPaintJob_Click);
             // 
-            // button13
+            // btnProperty
             // 
-            this.button13.Location = new System.Drawing.Point(12, 194);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(84, 41);
-            this.button13.TabIndex = 12;
-            this.button13.Text = "button13";
-            this.button13.UseVisualStyleBackColor = true;
+            this.btnProperty.Location = new System.Drawing.Point(12, 194);
+            this.btnProperty.Name = "btnProperty";
+            this.btnProperty.Size = new System.Drawing.Size(84, 41);
+            this.btnProperty.TabIndex = 12;
+            this.btnProperty.Text = "Property Tax";
+            this.btnProperty.UseVisualStyleBackColor = true;
+            this.btnProperty.Click += new System.EventHandler(this.btnProperty_Click);
             // 
-            // button14
+            // btnStadium
             // 
-            this.button14.Location = new System.Drawing.Point(168, 194);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(84, 41);
-            this.button14.TabIndex = 13;
-            this.button14.Text = "button14";
-            this.button14.UseVisualStyleBackColor = true;
+            this.btnStadium.Location = new System.Drawing.Point(168, 194);
+            this.btnStadium.Name = "btnStadium";
+            this.btnStadium.Size = new System.Drawing.Size(84, 41);
+            this.btnStadium.TabIndex = 13;
+            this.btnStadium.Text = "Stadium Seating";
+            this.btnStadium.UseVisualStyleBackColor = true;
+            this.btnStadium.Click += new System.EventHandler(this.btnStadium_Click);
             // 
             // btnExit
             // 
@@ -194,13 +201,13 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(423, 260);
             this.Controls.Add(this.btnExit);
-            this.Controls.Add(this.button14);
-            this.Controls.Add(this.button13);
-            this.Controls.Add(this.button12);
-            this.Controls.Add(this.button11);
-            this.Controls.Add(this.button10);
-            this.Controls.Add(this.button9);
-            this.Controls.Add(this.button8);
+            this.Controls.Add(this.btnStadium);
+            this.Controls.Add(this.btnProperty);
+            this.Controls.Add(this.btnPaintJob);
+            this.Controls.Add(this.btnAutomobile);
+            this.Controls.Add(this.btnCalories);
+            this.Controls.Add(this.btnCookies);
+            this.Controls.Add(this.btnInsure);
             this.Controls.Add(this.btnSentenceBuild);
             this.Controls.Add(this.btnBMI);
             this.Controls.Add(this.btnTempConvert);
@@ -223,13 +230,13 @@
         private System.Windows.Forms.Button btnTempConvert;
         private System.Windows.Forms.Button btnBMI;
         private System.Windows.Forms.Button btnSentenceBuild;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Button button14;
+        private System.Windows.Forms.Button btnInsure;
+        private System.Windows.Forms.Button btnCookies;
+        private System.Windows.Forms.Button btnCalories;
+        private System.Windows.Forms.Button btnAutomobile;
+        private System.Windows.Forms.Button btnPaintJob;
+        private System.Windows.Forms.Button btnProperty;
+        private System.Windows.Forms.Button btnStadium;
         private System.Windows.Forms.Button btnExit;
     }
 }

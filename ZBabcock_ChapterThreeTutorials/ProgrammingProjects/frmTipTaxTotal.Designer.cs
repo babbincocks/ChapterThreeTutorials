@@ -44,9 +44,9 @@
             // 
             // btnCalc
             // 
-            this.btnCalc.Location = new System.Drawing.Point(12, 225);
+            this.btnCalc.Location = new System.Drawing.Point(110, 208);
             this.btnCalc.Name = "btnCalc";
-            this.btnCalc.Size = new System.Drawing.Size(87, 23);
+            this.btnCalc.Size = new System.Drawing.Size(87, 41);
             this.btnCalc.TabIndex = 0;
             this.btnCalc.Text = "Calculate";
             this.btnCalc.UseVisualStyleBackColor = true;
@@ -88,9 +88,9 @@
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(110, 226);
+            this.btnClear.Location = new System.Drawing.Point(208, 208);
             this.btnClear.Name = "btnClear";
-            this.btnClear.Size = new System.Drawing.Size(87, 22);
+            this.btnClear.Size = new System.Drawing.Size(87, 41);
             this.btnClear.TabIndex = 5;
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = true;
@@ -98,9 +98,9 @@
             // 
             // btnNext
             // 
-            this.btnNext.Location = new System.Drawing.Point(209, 225);
+            this.btnNext.Location = new System.Drawing.Point(12, 208);
             this.btnNext.Name = "btnNext";
-            this.btnNext.Size = new System.Drawing.Size(87, 23);
+            this.btnNext.Size = new System.Drawing.Size(87, 41);
             this.btnNext.TabIndex = 6;
             this.btnNext.Text = "Next Problem";
             this.btnNext.UseVisualStyleBackColor = true;
@@ -108,9 +108,9 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(307, 225);
+            this.btnExit.Location = new System.Drawing.Point(307, 207);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(87, 22);
+            this.btnExit.Size = new System.Drawing.Size(87, 40);
             this.btnExit.TabIndex = 7;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
@@ -170,7 +170,7 @@
             this.Controls.Add(this.txtMeal);
             this.Controls.Add(this.btnCalc);
             this.Name = "frmTipTaxTotal";
-            this.Text = "frmTipTaxTotal";
+            this.Text = "Tip, Tax, and Total";
             this.ResumeLayout(false);
             this.PerformLayout();
 

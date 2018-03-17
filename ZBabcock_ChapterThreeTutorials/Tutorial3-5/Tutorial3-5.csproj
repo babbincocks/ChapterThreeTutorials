@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E2A5B629-83E1-4767-B76B-3BCF5C6BA474}</ProjectGuid>
+    <ProjectGuid>{55EAC495-57F5-4ABA-826A-AA74A20E4EE6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Tutorial3_5</RootNamespace>
     <AssemblyName>Tutorial3-5</AssemblyName>
@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmChange.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmChange.Designer.cs">
-      <DependentUpon>frmChange.cs</DependentUpon>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmChange.resx">
-      <DependentUpon>frmChange.cs</DependentUpon>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -80,7 +80,16 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\" />
+    <None Include="Resources\5cents.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10cents.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25cents.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50cents.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

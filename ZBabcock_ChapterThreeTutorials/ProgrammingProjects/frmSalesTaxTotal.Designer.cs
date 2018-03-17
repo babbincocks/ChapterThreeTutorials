@@ -84,7 +84,7 @@
             // 
             this.btnExit.Location = new System.Drawing.Point(313, 211);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(87, 22);
+            this.btnExit.Size = new System.Drawing.Size(87, 38);
             this.btnExit.TabIndex = 19;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
@@ -92,9 +92,9 @@
             // 
             // btnNext
             // 
-            this.btnNext.Location = new System.Drawing.Point(215, 212);
+            this.btnNext.Location = new System.Drawing.Point(15, 211);
             this.btnNext.Name = "btnNext";
-            this.btnNext.Size = new System.Drawing.Size(87, 23);
+            this.btnNext.Size = new System.Drawing.Size(87, 37);
             this.btnNext.TabIndex = 18;
             this.btnNext.Text = "Next Problem";
             this.btnNext.UseVisualStyleBackColor = true;
@@ -102,9 +102,9 @@
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(116, 212);
+            this.btnClear.Location = new System.Drawing.Point(213, 212);
             this.btnClear.Name = "btnClear";
-            this.btnClear.Size = new System.Drawing.Size(87, 22);
+            this.btnClear.Size = new System.Drawing.Size(87, 37);
             this.btnClear.TabIndex = 17;
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = true;
@@ -146,9 +146,9 @@
             // 
             // btnCalc
             // 
-            this.btnCalc.Location = new System.Drawing.Point(18, 211);
+            this.btnCalc.Location = new System.Drawing.Point(115, 211);
             this.btnCalc.Name = "btnCalc";
-            this.btnCalc.Size = new System.Drawing.Size(87, 23);
+            this.btnCalc.Size = new System.Drawing.Size(87, 38);
             this.btnCalc.TabIndex = 12;
             this.btnCalc.Text = "Calculate";
             this.btnCalc.UseVisualStyleBackColor = true;
@@ -192,7 +192,7 @@
             this.Controls.Add(this.txtPurchase);
             this.Controls.Add(this.btnCalc);
             this.Name = "frmSalesTaxTotal";
-            this.Text = "frmSalesTaxTotal";
+            this.Text = "Sales Tax and Total";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -146,7 +146,7 @@
             this.Controls.Add(this.btnNext);
             this.Controls.Add(this.btnCalc);
             this.Name = "frmBMI";
-            this.Text = "frmBMI";
+            this.Text = "BMI Checker";
             this.ResumeLayout(false);
             this.PerformLayout();
 

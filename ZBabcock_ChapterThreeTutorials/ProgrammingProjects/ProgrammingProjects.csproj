@@ -45,11 +45,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmAutomobile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutomobile.Designer.cs">
+      <DependentUpon>frmAutomobile.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmBMI.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmBMI.Designer.cs">
       <DependentUpon>frmBMI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalories.Designer.cs">
+      <DependentUpon>frmCalories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCookies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCookies.Designer.cs">
+      <DependentUpon>frmCookies.cs</DependentUpon>
     </Compile>
     <Compile Include="frmDirectory.cs">
       <SubType>Form</SubType>
@@ -69,6 +87,18 @@
     <Compile Include="frmNameFormat.Designer.cs">
       <DependentUpon>frmNameFormat.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPaintJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaintJob.Designer.cs">
+      <DependentUpon>frmPaintJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPropertyTax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPropertyTax.Designer.cs">
+      <DependentUpon>frmPropertyTax.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmSalesTaxTotal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +110,12 @@
     </Compile>
     <Compile Include="frmSentenceBuild.Designer.cs">
       <DependentUpon>frmSentenceBuild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStadiumSeating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStadiumSeating.Designer.cs">
+      <DependentUpon>frmStadiumSeating.cs</DependentUpon>
     </Compile>
     <Compile Include="frmTempConverter.cs">
       <SubType>Form</SubType>
@@ -101,20 +137,41 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAutomobile.resx">
+      <DependentUpon>frmAutomobile.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmBMI.resx">
       <DependentUpon>frmBMI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalories.resx">
+      <DependentUpon>frmCalories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCookies.resx">
+      <DependentUpon>frmCookies.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmDirectory.resx">
       <DependentUpon>frmDirectory.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmInsurance.resx">
+      <DependentUpon>frmInsurance.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmNameFormat.resx">
       <DependentUpon>frmNameFormat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaintJob.resx">
+      <DependentUpon>frmPaintJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPropertyTax.resx">
+      <DependentUpon>frmPropertyTax.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSalesTaxTotal.resx">
       <DependentUpon>frmSalesTaxTotal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSentenceBuild.resx">
       <DependentUpon>frmSentenceBuild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStadiumSeating.resx">
+      <DependentUpon>frmStadiumSeating.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTempConverter.resx">
       <DependentUpon>frmTempConverter.cs</DependentUpon>
@@ -133,6 +190,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -146,6 +204,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AppleCalories.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BananaCalories.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrangeCalories.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PearCalories.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -138,7 +138,7 @@
             this.Controls.Add(this.btnToFahrenheit);
             this.Controls.Add(this.btnToCelsius);
             this.Name = "frmTempConverter";
-            this.Text = "frmTempConverter";
+            this.Text = "Celsius and Fahrenheit Temperature Converter";
             this.ResumeLayout(false);
             this.PerformLayout();
 

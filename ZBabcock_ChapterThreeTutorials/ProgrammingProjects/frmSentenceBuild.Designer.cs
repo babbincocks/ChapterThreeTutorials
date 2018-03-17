@@ -419,7 +419,7 @@
             this.Controls.Add(this.btn_a);
             this.Controls.Add(this.btnA);
             this.Name = "frmSentenceBuild";
-            this.Text = "frmSentenceBuild";
+            this.Text = "Sentence Builder";
             this.ResumeLayout(false);
 
         }

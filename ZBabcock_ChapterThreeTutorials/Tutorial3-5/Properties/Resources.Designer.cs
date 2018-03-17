@@ -63,9 +63,39 @@ namespace Tutorial3_5.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap steamworkshop_webupload_previewfile_169038359_preview {
+        internal static System.Drawing.Bitmap _10cents {
             get {
-                object obj = ResourceManager.GetObject("steamworkshop_webupload_previewfile_169038359_preview", resourceCulture);
+                object obj = ResourceManager.GetObject("10cents", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _25cents {
+            get {
+                object obj = ResourceManager.GetObject("25cents", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _50cents {
+            get {
+                object obj = ResourceManager.GetObject("50cents", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _5cents {
+            get {
+                object obj = ResourceManager.GetObject("5cents", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

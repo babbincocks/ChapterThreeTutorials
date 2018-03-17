@@ -33,7 +33,7 @@ namespace ProgrammingProjects
             }
             catch
             {
-                MessageBox.Show("Incorrect format inserted into the Speed textbox.");
+                MessageBox.Show("Incorrect format inserted into the Speed textbox. Just, y'know, put a number.");
 
             }
         }
