@@ -50,7 +50,7 @@ namespace ProgrammingProjects
         }
 
         private void btnExit_Click(object sender, EventArgs e)
-        {
+        { //Here's the code for the Exit button. All it does is focuses on the scope of this form and tells it to close.
             this.Close();
         }
     }

@@ -37,6 +37,12 @@ namespace ZBabcock_ChapterThreeTutorials
         {
             try
             {
+                /*
+            This is the code for the Clear button, where it will turn the text value for all of the input fields and the 
+            output field into a null value. For the record, I only really put this in a try...catch block so I could
+            put that message box which will probably be never displayed, since I have no idea how a user could remotely
+            delete any of those controls. If they do manage that, well, I suppose then they would.
+          */
                 dayOfWeekTextBox.Text = "";
                 monthTextBox.Text = "";
                 dayOfMonthTextBox.Text = "";
@@ -52,7 +58,7 @@ namespace ZBabcock_ChapterThreeTutorials
 
         private void exitButton_Click(object sender, EventArgs e)
         {
-            
+          //Here's the code for the Exit button. All it does is focuses on the scope of this form and tells it to close.
             this.Close();
         }
 
